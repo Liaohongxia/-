@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>爱丽思花苑</title>
+   <link rel="stylesheet" href="header.css">
+   <link rel="stylesheet" href="index.css">
+   <link rel="stylesheet" href="footer.css">
+    
+ </head>
+ <body>
+   <div id="header">
+      <div class="top">
+	     <img src="logo.png" width="300" height="93" border="0" alt="">
+	       <h2>爱丽思花苑</h2>
+	  </div>
+      <div class="top2">
+	       <span><a href="#">登录</a></span>
+		   <span><a href="#">注册</a></span>
+		   <span><a href="#">购物车</a></span>
+		   <p>联系方式：010-64036500</p>
+		   <div>
+		      <input type="text" placeholder="关键字">
+			    <a href="#" class="keywords">搜索</a>
+		     </div>
+	  </div>
+	  <div class="top3">
+	   <a href="#">网站首页</a>
+		 <a href="#">鲜&nbsp;&nbsp;花</a>
+		 <a href="#">高端礼盒专区</a>
+		 <a href="#">婚礼布置</a>
+		 <a href="#">绿&nbsp;&nbsp;植</a>
+		 <a href="#">生活汇</a>
+		 <a href="#">关于我们</a>
+	  </div>
+   </div>
+  <div id="index">
+      <div class="shouye">
+	  <ul>
+	  <li><img src="als.pictures/homepape/首页轮播1.jpg"></li>
+	  <li><img src="als.pictures/homepape/首页轮播2.jpg"></li>
+	  <li><img src="als.pictures/homepape/首页轮播3.jpg"></li> 
+		 </ul>
+	  </div>
+     <div class="index_one">
+	     <div><h3>免费抽奖：100元免费购物卡，每天送出5张</h3></div>
+		     <div class="liebiao">
+	          <ul>
+		         <li>会员必读：了解LifeVC的10个数字</li>
+				 <li>请你，做我们的品牌代言人</li>
+				</ul>
+			</div>
+	       <div class="liebiao2">
+	          <ul>
+		        <li>关注微信，送100元现金券</li>
+				<li>年终企业福利团购：021-64692288*8022</li>
+				</ul>
+			</div>     
+	  </div>
+        <div id="index_two">
+			    <div><a href="#"><h3>鲜花，商务用花</h3></a></div>
+		       <div><h1>鲜花，商务用花系列产品，限时减价</h1></div>
+				 <div class="a1">
+				  <a href="#"><h3>活动截止日期1月20日，查看全部306款产品</h3></a>
+				</div>
+			 </div>
+         <div id="index_three">
+
+		      <a href="#"><p>永生花</p></a>
+			<div><span>天天有新品，天天签到送积分></span></div>
+		 </div>
+        <div id="index_four">
+		   <img src="als.pictures/homepape/4.jpg" alt="">
+		</div>
+		<div class="index_five">
+		  <div class="a1">
+			   <img src="als.pictures/homepape/结婚永生花.png" alt="">
+           <div class="a1_1"><a href="#">结婚永生花</a></div>
+					  <p>¥380</p>
+			</div>
+		  <div class="a2">
+			    <img src="als.pictures/homepape/心永生花.png" alt="">
+					 <div class="a1_1"><a href="#">心永生花</a></div>
+					 <p>¥360</p>
+					</div>
+		  <div class="a3">
+			    <img src="als.pictures/homepape/礼盒永生花.png" alt="">
+					 <div class="a1_1"><a href="#">礼盒永生花</a></div>
+					 <p>¥420</p>
+					</div>
+		  <div class="a4">
+			    <img src="als.pictures/homepape/爱你一生永生花.png" alt="">
+					  <div class="a1_1"><a href="#">爱你一生永生花</a></div>
+					   <p>¥160</p>
+					</div>
+       </div>
+    
+			<div id="index_six">
+			  <a href="#"><p>绿植花束</p></a>
+			</div>
+			<div class="index_five">
+			    <div class="a1">
+			    <img src="als.pictures/homepape/绿植花束2.jpg" alt="">
+					 <div class="a1_1"><a href="#">绽放绿植</a></div>
+					 <p>¥360</p>
+					</div>
+		  <div class="a4">
+			    <img src="als.pictures/homepape/肉肉绿植.jpg" alt="">
+					  <div class="a1_1"><a href="#">肉肉绿植</a></div>
+					   <p>¥99</p>
+			</div>  
+			</div>
+		      <div id="index_seven">
+			  <a href="#"><p>婚礼案例</p></a>
+				</div>
+			<div id="index_eight">
+       <img src="als.pictures/homepape/5.jpg" width="1000" height="385" border="0" alt="">
+      </div>
+			  <div class="index_five">
+		  <div class="a1">
+			   <img src="als.pictures/homepape/仲夏的梦.jpg" width="320" height="320" border="0" alt="">
+           <div class="a1_1"><a href="#">仲夏的梦</a></div>
+					  <p>¥99</p>
+			</div>
+		  <div class="a2">
+			   <img src="als.pictures/homepape/长城脚下公社.jpg" width="320" height="320" border="0" alt="">
+					 <div class="a1_1"><a href="#">长城脚下公社</a></div>
+					 <p>¥99</p>
+					</div>
+		  <div class="a3">
+			   <img src="als.pictures/homepape/浮士德.jpg" width="320" height="320" border="0" alt="">
+					 <div class="a1_1"><a href="#">浮士德</a></div>
+					 <p>¥99</p>
+					</div>
+		  <div class="a4">
+			  <img src="als.pictures/homepape/君悦大酒店.jpg" width="320" height="320" border="0" alt="">
+					  <div class="a1_1"><a href="#">君悦大酒店</a></div>
+					   <p>¥99</p>
+					</div>
+       </div>
+		</div>
+		<div id="footer">
+		     <div class="footer_one">
+			     <ul>
+				     <li><a href="#">购物指南</a></li>
+				     <li><a href="#">购物指南</a></li>
+				     <li><a href="#">常见问题</a></li>
+						</ul>
+				</div>
+        <div class="footer_two">
+						 <ul>
+								 <li><a href="#">支付方式</a></li>
+								 <li><a href="#">网银支付</a></li>
+								<li><a href="#">支付宝支付</a></li>
+								 <li><a href="#">货到付款</a></li>
+						</ul>
+				</div>
+						<div class="footer_three">
+								<ul>
+								<li><a href="#">售后服务</a></li>
+								<li><a href="#">退换货申请</a></li>
+								<li><a href="#">退换货政策</a></li>
+								</ul>
+				</div>
+			 <div class="footer_four">
+			    <p>关注我们</p>
+			    <div>
+					<img src="als.pictures/CoPea1S8uhGAbJWCAAAFWR2cKy4221.png" width="32" height="32" border="0" alt="">
+					<img src="als.pictures/CoPea1S8uhGATZCxAAAFoDu9hZA288.png" width="32" height="32" border="0" alt="">
+					<img src="als.pictures/CoPea1S8uhGARAXdAAAEw3pC53A503.png" width="32" height="32" border="0" alt=""></div>
+			 </div>
+			 <div class="footer_five">
+			    <p>电话:&nbsp;&nbsp;010-64036500&nbsp;&nbsp;&nbsp;&nbsp;手机：13911488036&nbsp;&nbsp;&nbsp;&nbsp;    qq：1521885612</p>
+				<p>版权所属 © 爱丽思</p>
+				
+			 
+			 </div>
+		
+		</div>
+ </body>
+</html>

@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+
+ul {
+  list-style: none; }
+
+
+.font_small {
+  font-size: 0.8rem;
+}
+/*��дý���ѯ��дiframe�ĸ߶�*/
+.my_footer_h{height:17rem;}
+@media screen and(min-width:992px){
+  .my_footer_h{height: 17rem;}
+  .my_header_h{height:40rem;}
+}
+
+@media screen and(max-width:991px){
+  .my_footer_h{height:50rem;}
+  .my_header_h{height:50rem;}
+}
+.my_head_h{height:17rem;}
+.my_btn{
+  width:1.5rem;height:1.5rem;
+  margin:0px;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  color:#fff;
+  font-weight: bold;
+  border:0;outline: 0;
+  margin-left: 0px !important;
+}
+.border-k{border:1px solid #666;}
+
+li{list-style:none;
+  padding:10px 0;}
+
+
+hr{margin:0;}
+
+
+p{font-size: 14px;}
+
+ul{padding:0 ;}
+
+h5{color: #666;
+  font-size:18px;
+  font-weight:bold; }
+
+.a2>ul>li>a>img{width:56px;
+  height:56px;}
+
+  #span_two>span{font-family: ����;
+  font-size:16px;}
+  .mousetrap,#mouset {overflow: hidden;
+    width:320px;
+    height:320px
+  }
+
+.w-40{width:40px;height:40px;}
+.w-4{width:4rem;height:2.5rem;}
+.w-60{width:60px;height:24px;text-align: center;margin:0px -4px;}
+.w-12{width:0.8rem;height:0.8rem;}
+.w-6{width:6rem;}
+.w-100{width:100%;}
+.hang{line-height:35px;}
+.w-35{width:40%;}
+.ml-5{margin-left: 3rem !important;}
+hr{
+  margin:5px 0;
+  border:none;
+  height:1px;
+  background-color: #000;
+}
+#title_biao>li a{
+  margin-left:0px;
+  text-decoration: none;
+}
+#title_biao>li{
+  padding:0px;
+}
+.p-0 li{
+  font-size: 14px;
+}
+#guige,#guige2{
+  text-decoration: none;
+  border:1px solid #ccc;
+  padding-right: 15px;
+  padding-left: 15px;
+  height: 25px;
+line-height: 25px;
+  }
+#guige2,#guige{
+  font-family: 宋体;
+}
+#guige2,#guige,#kucun{
+  font-size: 12px;
+  font-family:微软雅黑;
+}
+#btn,#btn2{
+  margin-left:0px;width:100px;
+}
+#pl>a{
+  padding-left:0px;
+}
+.a2{
+  width:350px;
+}
+/*定制放大镜样式*/
+/* #preview>.card>.card-body>div{
+  width:320px;
+  overflow:hidden;
+} */
+#preview>.card>.card-body>div>ul{
+  transition:all .5s linear;
+}
+#preview>.card>.card-body>div>ul>li{
+  width:62px; height:62px;
+}
+#preview>.card>.card-body>div>ul img{
+  width:52px; height:52px;
+}
+#preview>.card>.card-body>div>ul img:hover{
+  border:1px solid #e4393c;
+}
+#preview>div>img{width:320px}
+#mask{
+  width:145px; height:145px;
+  background-color:#ffa;
+  opacity:.5;
+}
+#super-mask{
+  width:320px; height:320px;
+}
+#div-lg{
+  width:400px; height:400px;
+  left:330px;
+  z-index:1000;
+ background-repeat: no-repeat;
+  border: 1px solid rgba(0, 0, 0, 0.125)
+}
+#card{width:320px;height:320px;}

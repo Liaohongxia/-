@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+	<head>
+		<title></title>
+		<meta charset="utf-8"/>
+	</head>
+	<body>
+	  <input type="text" id="uname" placeholder="请输入用户名"><br>
+		<input type="password" id="upwd" placeholder="请输入密码"><br>
+		<button onclick="reg()">注册</button>
+		<script>
+		  function reg(){
+			 var $uname=uname.value;
+			// console.log()
+			 var $upwd=upwd.value;
+				//ajax post请求
+				var xhr=new XMLHttpRequest();
+				 xhr.onreadystatechange=function(){
+					 console.log(xhr);
+				    if (xhr.readyState==4&&xhr.status==200)
+				    {var result=xhr.responseText;
+						   if (result==1)
+						   {alert("注册成功");
+						   }else{
+							 alert(result);
+							 }
+				    }
+				  }
+			  xhr.open("post","/user/v1/register",true);
+        var formdata=`uname=${$uname}&upwd=${$upwd}`;
+			  xhr.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+				console.log(formdata);
+			  xhr.send(formdata);
+			}
+		
+		</script>
+	</body>
+</html>

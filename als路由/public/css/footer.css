@@ -1,0 +1,17 @@
+    #footer{width:100%;height:320px;background:#e8e8e8;margin-top:70px;}
+    #footer{position:relative;}
+		#footer>div,#footer_five{position:absolute;}
+    #footer>.footer_one{top:60px;left:10%;}
+		#footer>.footer_two{top:60px;left:35%;}
+    #footer>.footer_three{top:60px;left:55%;}
+		#footer>.footer_four{top:60px;left:80%;}
+    #footer>.footer_four p{padding:10px 5px;}
+    #footer>.footer_four img{padding:0 5px;}
+		#footer ul{list-style:none;font-size:12px;}
+		#footer li{padding:5px 0;}
+		#footer a{color:#000;}
+
+	
+    #footer>.footer_five{position:absolute;bottom:60px;left:35%;
+		             font-size:12px;text-align:center;}
+    #footer p{padding:5px 0;}

@@ -1,0 +1,32 @@
+#reg{position:relative;height:300px;margin:40px auto;width:1000px;}
+#container{width:500px;height:500px;margin:0 left;
+	             position:absolute;left:250px;}
+      #container>table{width:100%;}
+	  input{width:100%;height:40px;border-radius:10px;margin:20px 0px;
+	       outline:0;padding:0 10px;border:1px solid #d8d8d8;box-sizing:border-box;}
+    #container>table h3{margin:5px 0;} 
+	#container>table div{font-size: 13px;color:red;}
+	button{
+	       width:130px;height:35px;
+	       text-decoration:none;
+		   background:#83B842;
+		   font-size:16px;
+		   display:block;
+		   margin:15px 115px;
+		   line-height:35px;
+		   text-align:center;
+		   color:#fff;
+		   border-radius:3px;
+		   border:0;
+		  }
+	p{font-size:14px;}
+	#d2{position:absolute;
+	    top:10px;left:520px;
+		font-size:14px;width:176px;
+		}
+		#d2>div{margin-top:10px;}
+	a{text-decoration:none;color:#666;}	
+	img{transition:0.8s;}
+	   img:hover{transform:scale(1.1);}
+	   a{transition:0.2s;}
+		/* a:hover{background-color:#0F6133;} */

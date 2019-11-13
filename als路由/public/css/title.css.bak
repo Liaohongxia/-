@@ -1,0 +1,16 @@
+#parent{width:750px;height:400px;text-align:center;margin:30px auto;}
+ .d1{float:left;color:#fff;box-sizing:border-box;margin:10px 10px;}
+  .d1>img{border: 0 none;
+    height:100%;
+    width: 100%;
+    overflow:hidden;
+	}
+   .d1{width:165px;height:161px;position:relative;text-align:center;line-height:30px;}
+   .d2{width:165px;height:30px;position:absolute;bottom:0;left:0;
+       background:rgba(0,0,0,0.5)}
+	   .d2{transition:0.4s;}
+    .d2:hover{height:161px;line-height:161px;}
+	
+	   a{transition:0.2s;}
+		
+		a:hover{background-color:#0F6133;}

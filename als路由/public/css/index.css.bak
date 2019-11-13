@@ -1,0 +1,80 @@
+/*手写媒体查询编写iframe的高度*/
+.my_footer_h{height:17rem;}
+@media screen and(min-width:992px){
+    .my_footer_h{height: 17rem;}
+    .my_header_h{height:6rem;}
+}
+
+@media screen and(max-width:991px){
+    .my_footer_h{height:50rem;}
+    .my_header_h{height:12rem;}
+}
+/*轮播图*/
+/*左右箭头*/
+.carousel-control-prev,
+.carousel-control-next{
+    width:4%;height:20%;
+    top:40%;
+    background-color: #aaa;
+    border-radius:0.25rem;
+}
+/*轮播指示器的样式*/
+.carousel-indicators li{
+    width:0.6rem;height:0.6rem;
+    margin-left: 0.2rem;
+    margin-right: 0.2rem;
+    border-radius: 50%;
+    background: #fff;
+}
+.carousel-indicators li.active{
+    background:#0aa1ed;
+}
+/*楼层标题的样式*/
+.title_font{
+    font-size:1.2rem;
+    font-weight: bold;
+    color:#666;margin-left:0.25rem;
+}
+.border-bottom{border-width:3px;!important;
+padding-bottom: 0.5rem;
+margin-bottom: 0.5rem;
+}
+.L_height_1,.L_height_2{background-color: #e8e8e8}
+.L_height_1{
+    height:377px;
+}
+.L_height_2{
+    height:233px;
+}
+.w-35{
+    width:35%;
+}
+.L_height_1:before{
+    content: "";
+    display: table;
+}
+/*楼层中图片的位置*/
+.img_position_1{
+    margin-right: 35px;
+    margin-top: -215px;
+    transition: 1s;
+}
+.img_position_2{
+    margin-right: 25px;
+    margin-top: -135px;
+    transition: 1s;
+}
+.img_position_3{
+    margin-right: 25px;
+    margin-top: -155px;
+    transition: 1s;
+}
+.img_position_1:hover{
+    transform: scale(1.1);
+}
+.img_position_2:hover{
+    transform: scale(1.1);
+}
+.img_position_3:hover{
+    transform: scale(1.1);
+}

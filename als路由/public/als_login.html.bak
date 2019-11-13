@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+   <link rel="stylesheet" href="header.css">
+   <link rel="stylesheet" href="login.css">
+   <link rel="stylesheet" href="footer.css">
+ </head>
+ <body>
+ <div id="header">
+      <div class="top">
+	     <img src="logo.png" width="300" height="93" border="0" alt="">
+	       <h2>爱丽思花苑</h2>
+	  </div>
+      <div class="top2">
+	       <span><a href="#">登录</a></span>
+		   <span><a href="#">注册</a></span>
+		   <span><a href="#">购物车</a></span>
+		   <p>联系方式：010-64036500</p>
+		   <div>
+		      <input type="text" placeholder="关键字">
+			    <a href="#" class="keywords">搜索</a>
+		     </div>
+	  </div>
+	  <div class="top3">
+	   <a href="#">网站首页</a>
+		 <a href="#">鲜&nbsp;&nbsp;花</a>
+		 <a href="#">高端礼盒专区</a>
+		 <a href="#">婚礼布置</a>
+		 <a href="#">绿&nbsp;&nbsp;植</a>
+		 <a href="#">生活汇</a>
+		 <a href="#">关于我们</a>
+	  </div>
+   </div>
+   <div id="reg">
+ <div id="container">
+      <table>
+      	<tr>
+      		<td colspan="2"><h3>用户登录</h3><hr></td>
+      		
+      		
+      	</tr>
+      	
+      	<tr>
+      		<td><p>*账号:</p></td>
+      		<td>
+			  <input type="text" placeholder="您注册时填写的账号">
+			</td>
+      	
+      	</tr>
+      	<tr>
+      		<td><p>*密码:</p></td>
+      		<td>
+			  <input type="text" placeholder="6-24位字母或数字">
+			</td>
+      		
+      	</tr>
+      	
+      	</tr>
+      	<tr>
+      		<td><p>*验证码:</p></td>
+      		<td>
+			  <input type="text">
+			</td>
+      		
+      	</tr>
+      	<tr>
+      		<td colspan="2">
+			  <a href="" class="d3"><p>登录</p></a>
+			
+			</td>
+          </tr>
+      </table>
+	    <div id="d2">
+		  <div>登录后可以管理您的账户</div>
+		  <div>还没有账号？点击<a href="#">马上注册</a></div>
+		</div>
+	 </div>
+	 </div>
+	 <div id="footer">
+		     <div class="footer_one">
+			     <ul>
+				     <li><a href="#">购物指南</a></li>
+				     <li><a href="#">购物指南</a></li>
+				     <li><a href="#">常见问题</a></li>
+						</ul>
+				</div>
+ <div class="footer_two">
+						 <ul>
+								 <li><a href="#">支付方式</a></li>
+								 <li><a href="#">网银支付</a></li>
+								<li><a href="#">支付宝支付</a></li>
+								 <li><a href="#">货到付款</a></li>
+						</ul>
+				</div>
+						<div class="footer_three">
+								<ul>
+								<li><a href="#">售后服务</a></li>
+								<li><a href="#">退换货申请</a></li>
+								<li><a href="#">退换货政策</a></li>
+								</ul>
+				</div>
+			 <div class="footer_four">
+			    <p>关注我们</p>
+			    <div>
+					<img src="als.pictures/CoPea1S8uhGAbJWCAAAFWR2cKy4221.png" width="32" height="32" border="0" alt="">
+					<img src="als.pictures/CoPea1S8uhGATZCxAAAFoDu9hZA288.png" width="32" height="32" border="0" alt="">
+					<img src="als.pictures/CoPea1S8uhGARAXdAAAEw3pC53A503.png" width="32" height="32" border="0" alt=""></div>
+			 </div>
+			 <div class="footer_five">
+			    <p>电话:&nbsp;&nbsp;010-64036500&nbsp;&nbsp;&nbsp;&nbsp;手机：13911488036&nbsp;&nbsp;&nbsp;&nbsp;    qq：1521885612</p>
+				<p>版权所属 © 爱丽思</p>
+				
+			 
+			 </div>
+		
+		</div>
+ </body>
+</html>
